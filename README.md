@@ -1,3 +1,5 @@
+Happiness score Project
+
 Happiness score or subjective well-being (variable name ladder ): The survey measure of SWB is from the Feb 28, 2020 release of the Gallup World Poll (GWP). 
 GWP is a global analytics and advice firm that helps leaders and organizations solve their most pressing problems.
 
@@ -10,5 +12,13 @@ Social Support (or having someone to count on in times of trouble) is the nation
 - Generosity is the residual of regressing national average of response to the GWP question “Have you donated money to a charity in the past month?” on GDP per capita. 
 - Corruption Perception: The measure is the national average of the survey responses to two questions in the GWP: “Is corruption widespread throughout the government or not” and “Is corruption widespread within businesses or not?” The overall perception is just the average of the two 0-or-1 responses.
 
+![image](https://user-images.githubusercontent.com/63757160/109690808-593f8c80-7b4c-11eb-977e-27e8ab57afad.png)
 
+![image](https://user-images.githubusercontent.com/63757160/109690915-76745b00-7b4c-11eb-8922-d70285a13d4e.png)
+
+![image](https://user-images.githubusercontent.com/63757160/109690983-8a1fc180-7b4c-11eb-994d-f5c10fa57955.png)
+
+![image](https://user-images.githubusercontent.com/63757160/109691012-973cb080-7b4c-11eb-89bb-65be3fd3fff8.png)
+
+![image](https://user-images.githubusercontent.com/63757160/109691062-a91e5380-7b4c-11eb-9a1c-63368801f71c.png)
 
